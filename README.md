@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemanthchowdar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html css js
+I am on golang/dsa/cpp/react/node/postgresql/
 - 💞️ I’m looking to collaborate on any small projects
 - 📫 How to reach me mail to:hemanthsadineni@gmail.com
 
