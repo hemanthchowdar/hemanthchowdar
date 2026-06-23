@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemanthchowdar
 - 👀 I’m interested in coding
-I am on golang/dsa/cpp/react/node/postgresql/
-- 💞️ I’m looking to collaborate on any small projects
+I am a Full Stak developer
+- 💞️ I’m looking to collaborate on any web/App projects
 - 📫 How to reach me mail to:hemanthsadineni@gmail.com
 
 <!---
